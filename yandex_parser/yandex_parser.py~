@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-def yandex_parser(link):
+def yahoo_parser(link):
 	r=requests.get(link)
 	if(r.status_code==200):
 		soup=BeautifulSoup(r.text,'html.parser')
