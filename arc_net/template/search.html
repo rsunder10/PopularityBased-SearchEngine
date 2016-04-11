@@ -6,4 +6,13 @@
 		<input type="text" placeholder="Search The Web" name="q"/>
 		<input type="submit"/>
 	</form>
+	<div>
+{% for i,j,k in sunder %}
+<ul>
+<li>{{i}}</li>
+<li>{{j}}</li>
+<li>{{k}}</li>
+</ul>
+{% endfor %}				
+	</div>
 {%endblock%}
