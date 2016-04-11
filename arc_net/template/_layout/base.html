@@ -1,0 +1,36 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+    {% include '_layout/head_css.html' %}
+    <title>{% block head_title %}Zompire{% endblock %}</title>
+
+  </head>
+
+  <body>
+    
+        {% include '_layout/navbar.html' %}
+  
+    <div class="wrap">
+      {% block content %}
+
+
+
+    	{% endblock %}
+    </div>
+
+    {% include '_layout/footer.html' %}
+
+  	{% include '_layout/javascript.html' %}
+    
+    {% block customjs %}
+    
+    {% endblock%}
+  </body>
+</html>
