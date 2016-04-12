@@ -10,4 +10,4 @@ def yandex_parser(link):
 		print(len(info))
 		print(len(link))
 
-yahoo_parser('https://www.yandex.com/search/?msid=22890.24003.1460387819.92282&text=sunder&lr=20902&p=0')
+yandex_parser('https://www.yandex.com/search/?text=sunder')

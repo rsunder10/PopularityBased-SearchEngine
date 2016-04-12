@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="108px"
+   height="108px"
+   viewBox="0 0 108 108"
+   enable-background="new 0 0 108 108"
+   xml:space="preserve"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="community.svg"
+   inkscape:export-filename="C:\Users\Doug\Desktop\community-alt.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"><metadata
+   id="metadata33"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs31" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="879"
+   inkscape:window-height="680"
+   id="namedview29"
+   showgrid="false"
+   inkscape:zoom="2.1851852"
+   inkscape:cx="54"
+   inkscape:cy="54"
+   inkscape:window-x="854"
+   inkscape:window-y="217"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg2" />
+<g
+   id="community">
+	<g
+   id="g5">
+		<path
+   id="base_22_"
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   fill="#FFFFFF"
+   d="M54,0c29.823,0,54,24.177,54,54    c0,29.824-24.177,54-54,54S0,83.824,0,54C0,24.177,24.177,0,54,0z"
+   style="fill:#cdd1d4;fill-opacity:1" />
+		<path
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   fill="#FFFFFF"
+   d="M47.964,69.994c-5.089,0-9.194-0.633-12.51-1.7l-8.468,6.671    l1.419-10.396c-5.347-4.406-6.413-10.634-6.413-15.319c0-8.075,3.18-21.244,26.011-21.244s26.002,12.131,26.002,20.206    C74.007,56.287,70.796,69.994,47.964,69.994z"
+   id="path8" />
+		<path
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   fill="#FFFFFF"
+   d="M79.938,76.092l1.075,7.873l-7.108-5.6    c-1.966,0.402-4.242,0.631-6.879,0.631c-16.686,0-19.032-9.791-19.032-15.559s2.317-14.433,19.003-14.433    c16.685,0,19.009,9.406,19.009,15.173C86.006,67.887,85.05,72.947,79.938,76.092z"
+   id="path10" />
+		<path
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   fill="#FFFFFF"
+   d="M75,66c-1.104,0-2-0.896-2-2c0-1.105,0.896-2,2-2s2,0.895,2,2    C77,65.104,76.104,66,75,66z M67,66c-1.104,0-2-0.896-2-2c0-1.105,0.896-2,2-2s2,0.895,2,2C69,65.104,68.104,66,67,66z M59,66    c-1.104,0-2-0.896-2-2c0-1.105,0.896-2,2-2s2,0.895,2,2C61,65.104,60.104,66,59,66z"
+   id="path12" />
+	</g>
+	<g
+   id="g14">
+		<defs
+   id="defs16">
+			<filter
+   id="Adobe_OpacityMaskFilter"
+   filterUnits="userSpaceOnUse"
+   x="0"
+   y="0"
+   width="108"
+   height="108">
+				<feColorMatrix
+   type="matrix"
+   values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"
+   id="feColorMatrix19" />
+			</filter>
+		</defs>
+		<mask
+   maskUnits="userSpaceOnUse"
+   x="0"
+   y="0"
+   width="108"
+   height="108"
+   id="base_11_">
+		</mask>
+		<path
+   id="base_21_"
+   mask="url(#base_11_)"
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   fill="#FFFFFF"
+   d="M54,0    c29.823,0,54,24.177,54,54c0,29.824-24.177,54-54,54S0,83.824,0,54C0,24.177,24.177,0,54,0z" />
+		<path
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   fill="#CDD1D4"
+   d="M47.964,69.994c-5.089,0-9.194-0.633-12.51-1.7l-8.468,6.671    l1.419-10.396c-5.347-4.406-6.413-10.634-6.413-15.319c0-8.075,3.18-21.244,26.011-21.244s26.002,12.131,26.002,20.206    C74.007,56.287,70.796,69.994,47.964,69.994z"
+   id="path23"
+   style="fill:#ffffff" />
+		<path
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   fill="#434A50"
+   d="M79.938,76.092l1.075,7.873l-7.108-5.6    c-1.966,0.402-4.242,0.631-6.879,0.631c-16.686,0-19.032-9.791-19.032-15.559s2.317-14.433,19.003-14.433    c16.685,0,19.009,9.406,19.009,15.173C86.006,67.887,85.05,72.947,79.938,76.092z"
+   id="path25" />
+		<path
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   fill="#FFFFFF"
+   d="M75,66c-1.104,0-2-0.896-2-2c0-1.105,0.896-2,2-2s2,0.895,2,2    C77,65.104,76.104,66,75,66z M67,66c-1.104,0-2-0.896-2-2c0-1.105,0.896-2,2-2s2,0.895,2,2C69,65.104,68.104,66,67,66z M59,66    c-1.104,0-2-0.896-2-2c0-1.105,0.896-2,2-2s2,0.895,2,2C61,65.104,60.104,66,59,66z"
+   id="path27" />
+	</g>
+</g>
+</svg>
