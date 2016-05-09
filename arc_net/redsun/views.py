@@ -9,6 +9,11 @@ global_list_info=[]
 global_address=[]
 global_list_ranking=[]
 def bing_parser(link):
+	del global_list_link[:]
+	del global_list_title[:]
+	del global_list_ranking[:]
+	del global_list_info[:]
+	del global_address[:]
 	r=requests.get(link)
 	if(r.status_code==200):
 		soup=BeautifulSoup(r.text,'html.parser')
@@ -37,7 +42,12 @@ def bing_parser(link):
 				
 		print(len(link))
 		print(len(info))
-
+def alexa(link):
+	r=requests.get(link)
+	if(r.status_code==200):
+		soup=BeautifulSoup(r.text,'html.parser')
+		api=soup.find_all('span',class_='ss')
+		
 def google_parser(link):
 	r = requests.get(link)
 	# print(r.text)
@@ -99,7 +109,6 @@ def yandex_parser(link):
 
 def SearchResult(request):
 	c={}
-
 
 	template="search.html"
 	if request.method == 'GET' and 'q' in request.GET:

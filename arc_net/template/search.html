@@ -29,7 +29,7 @@
                     </button>
 
                     <a class="navbar-brand" href="index.html">
-                    	<h1><img src="{% static 'images/SA.gif' %}" alt="ArcNet"></h1>
+                    	<h1>SRM IT</h1>
                     </a>
                     
                 </div>
@@ -61,11 +61,11 @@
 
     <section id="home-slider">
         <div class="container">
-            <div class="main-slider">
+            <div class="main-slider" >
                 <div class="slide-text">
                     <h1>We Are Creative Nerds</h1>
-                    <p>Boudin doner frankfurter pig. Cow shank bresaola pork loin tri-tip tongue venison pork belly meatloaf short loin landjaeger biltong beef ribs shankle chicken andouille.</p>
-                    <a href="#" class="btn btn-common">SIGN UP</a>
+                    <p>Who waste time building module for real world problem Instead of studying for Exam.Hope We will get good marks</p>
+                    
                 </div>
                 <img src="{% static 'images/home/slider/slide1/house.png' %}" class="img-responsive slider-house" alt="slider image">
                 <img src="{% static 'images/home/slider/slide1/circle1.png' %}" class="slider-circle1" alt="slider image">
@@ -176,7 +176,7 @@
         <div class="container">
             <div class="row">
                 <h1 class="title text-center wow fadeInDown" data-wow-duration="500ms" data-wow-delay="300ms">Meet the Team</h1>
-                <p class="text-center wow fadeInDown" data-wow-duration="400ms" data-wow-delay="400ms">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br>
+                <p class="text-center wow fadeInDown" data-wow-duration="400ms" data-wow-delay="400ms">We are GEEKY kids with spectacles of heroism. <br>
                 Ut enim ad minim veniam, quis nostrud </p>
                 <div id="team-carousel" class="carousel slide wow fadeIn" data-ride="carousel" data-wow-duration="400ms" data-wow-delay="400ms">
                     <!-- Indicators -->
@@ -381,7 +381,26 @@
             </div>
         </div>
     </footer>
+<script>
+Element.prototype.remove = function() {
+    this.parentElement.removeChild(this);
+}
+NodeList.prototype.remove = HTMLCollection.prototype.remove = function() {
+    for(var i = this.length - 1; i >= 0; i--) {
+        if(this[i] && this[i].parentElement) {
+            this[i].parentElement.removeChild(this[i]);
+        }
+    }
+}
+var x=document.URL;
+var splitted=x.split("=");
+if(splitted.length==2){
+document.getElementById('home-slider').remove();
+document.getElementById('services').remove();
+}
 
+
+</script>
 
 <!-- 	<h1>All for None</h1> -->
 
